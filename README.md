@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hello, I'm Said Beder!</h1>
+<h1 align='center'> Said Beder!</h1>
 
 <p align='center'>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=saidbeder&label=Profile%20Views&color=0e75b6&style=flat"/></a>
@@ -11,29 +11,29 @@
 ## 🚀 About Me
 
 💻 I'm a **Backend Developer** passionate about building scalable and efficient systems.  
-⚙️ I love working with APIs, databases, and server-side logic.  
-📚 Currently improving my skills in backend architecture and problem solving.  
-🔥 Interested in freelancing and real-world projects.  
+⚙️ I enjoy working with APIs, databases, and server-side logic.  
+📚 Currently improving my skills in backend development and problem solving.  
+🔥 My goal is to work on real-world projects and start freelancing.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, C++
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Postman
-- **Other:** REST APIs, Authentication, MVC Architecture
+- **Languages:** C++, Python, JavaScript, Java, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman  
+- **Other:** REST APIs, Authentication, MVC Architecture  
 
 ---
 
 ## 📂 Projects
 
-🔹 Add your projects here (important 👇)
+🔹 Add your projects here (very important 👇)
 
-- 🧠 **Project 1** – API System (Node.js + MongoDB)  
-- 🛒 **Project 2** – E-commerce Backend  
-- 🔐 **Project 3** – Authentication System (JWT)  
+- 🧠 **API System** – Built using Node.js & MongoDB  
+- 🛒 **E-commerce Backend** – كامل backend لمتجر  
+- 🔐 **Auth System** – باستخدام JWT  
 
 ---
 
@@ -48,16 +48,27 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: ()https://www.linkedin.com/in/said-beder-7a91a6330?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email :(saidbeder55@gmail.com)
-- 🧑‍💻 GitHub: https://github.com/saidbeder
+<p align="center">
+  <a href="https://www.facebook.com/share/1CYsb6A399/">
+    <img src="https://img.shields.io/badge/Facebook-Said%20Beder-1877F2?logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/said-beder-7a91a6330">
+    <img src="https://img.shields.io/badge/LinkedIn-Said%20Beder-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/201007431789">
+    <img src="https://img.shields.io/badge/WhatsApp-01007431789-25D366?logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
-## 💡 أهدافي  
 
-✔️ أشتغل Backend Developer محترف  
-✔️ أبدأ Freelancing على Upwork  
-✔️ أشارك في Open Source  
+## 🎯 Goals
+
+✔️ Become a professional Backend Developer  
+✔️ Start freelancing on platforms like Upwork  
+✔️ Contribute to open-source projects  
 
 ---
 
