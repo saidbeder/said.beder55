@@ -50,7 +50,7 @@
 
 - 💼 LinkedIn: ()https://www.linkedin.com/in/said-beder-7a91a6330?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email :(saidbeder55@gmail.com)
-- 🧑‍💻 GitHub: https://github.com/said.beder55
+- 🧑‍💻 GitHub: https://github.com/saidbeder
 
 ---
 ## 💡 أهدافي  
